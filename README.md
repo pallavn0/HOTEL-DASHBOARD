@@ -2,6 +2,22 @@
 📊 Hotel Performance Analytics Dashboard (Power BI)
 This Hotel Performance Analytics Dashboard is a comprehensive Power BI report designed to provide insights into key performance metrics for a hospitality business. The dashboard allows users to filter and analyze revenue, occupancy, and booking trends across cities, room types, and time frames.
 
+ ## Objective:
+To provide hotel management with a data-driven, visual overview of performance metrics such as revenue, occupancy, ADR (Average Daily Rate), RevPAR (Revenue per Available Room), and realization across properties. The dashboard aims to monitor trends, compare performance across cities, room types, and booking platforms, and support strategic decision-making for operational and financial optimization.
+
+## PROBLEM STATEMENT
+Hotel management lacks a centralized and dynamic system to track key performance indicators across multiple locations and booking channels. Without real-time insights, it's difficult to identify:
+
+Which cities or properties are underperforming.
+
+How occupancy and revenue are changing week-over-week.
+
+The impact of different booking platforms on realization and ADR.
+
+Performance variation across weekdays and weekends. This limits their ability to make timely decisions to improve profitability, resource allocation, and guest experience.
+
+
+
 ## Key Features
 Interactive Filters:
 
@@ -71,4 +87,30 @@ Identify high/low performing cities or platforms.
 Analyze trends over time for better strategic decisions.
 
 Optimize room pricing and marketing efforts.
+
+## PROBLEM SOLVED
+1. Identify City-Level Performance Gaps:
+Revenue, occupancy, and average guest ratings are shown by city.
+
+Helps pinpoint which cities (e.g., Delhi, Bangalore, Mumbai) are outperforming or underperforming.
+
+2. Understand Guest Satisfaction Trends:
+Tracks average guest ratings and how they correlate with occupancy over time (by week, month, and day).
+
+Enables management to spot satisfaction dips and investigate causes.
+
+3. Analyze Booking Behaviors:
+Breaks down successful bookings and occupancy by weekday vs. weekend.
+
+Reveals guest booking preferences and patterns (e.g., weekend vs weekday popularity).
+
+4. Evaluate Booking Platform Performance:
+Shows which platforms (e.g., Makemytrip, direct online, Tripvser) contribute most to bookings.
+
+Aids in optimizing marketing spend and platform partnerships.
+
+5. Enable Granular Filtering:
+Filters by room class, city, booking status, booking platform, and month allow users to deep-dive into specific segments of data.
+
+
 
